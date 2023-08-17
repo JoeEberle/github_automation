@@ -1,4 +1,4 @@
-# GitHub Automation  - Identify your datas most Important Relationships and Features  
+# GitHub Automation  - QUickly Automate your github repositories using API's - Its EASY !!!   
 
 ![Code Logo](joe_logo.png)
 
