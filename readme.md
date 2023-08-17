@@ -1,4 +1,4 @@
-# GitHub Automation  - QUickly Automate your github repositories using API's - Its EASY !!!   
+# GitHub Automation  - Quickly Automate your github repositories using API's - Its EASY !!!   
 
 ![Code Logo](joe_logo.png)
 
