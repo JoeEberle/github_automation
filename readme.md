@@ -1,11 +1,10 @@
-# Github Automation - Welcome to the **github_automation ** repository! 
-## This solution automates github through the API . 
+# Github Automation - Welcome to the **github_automation ** repository! This project autobmate github through the API . 
 
 ![Code Logo](code.png)
 
 ## Description
 
-Welcome to the solution Github Automation 
+Welcome to the solution Github Automation - an example for your projects
 
 Welcome to the **github_automation ** repository! This project autobmate github through the API . 
 
