@@ -83,3 +83,20 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-07 14:23:06,564 - INFO - START github_automation =============================================
+2024-04-07 14:23:06,564 - INFO - START github_automation Start Time = 2024-04-07 14:23:06
+2024-04-07 14:23:06,564 - INFO - github_automation Step 0 - Initialize the configuration file parser
+2024-04-07 14:23:06,592 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-04-07 14:23:06,592 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-04-07 14:23:12,439 - INFO - Process github_automation Step 0 - Initializing and starting Process.
+2024-04-07 14:23:18,482 - INFO - Process github_automation Step 0 - provide function to get the API Key used for automation.
+2024-04-07 14:23:34,376 - INFO - PERFORMANCE github_automation The total process duration was:27.81
+2024-04-07 14:23:34,376 - INFO - PERFORMANCE github_automation Stop Time = 2024-04-07 14:23:34
+2024-04-07 14:23:34,377 - INFO - PERFORMANCE github_automation Low process duration less than 3 minutes:27.81
+2024-04-07 14:23:34,377 - INFO - PERFORMANCE github_automation Performance optimization is optional
+2024-04-07 14:23:34,377 - INFO - END github_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
