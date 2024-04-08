@@ -1,12 +1,11 @@
-2024-04-08 16:13:37,727 - INFO - START github_automation =============================================
-2024-04-08 16:13:37,727 - INFO - START github_automation Start Time = 2024-04-08 16:13:37
-2024-04-08 16:13:37,727 - INFO - github_automation Step 0 - Initialize the configuration file parser
-2024-04-08 16:13:37,749 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2024-04-08 16:13:37,749 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
-2024-04-08 16:13:43,567 - INFO - Process github_automation Step 0 - Initializing and starting Process.
-2024-04-08 16:13:49,605 - INFO - Process github_automation Step 0 - provide function to get the API Key used for automation.
-2024-04-08 16:14:02,096 - INFO - PERFORMANCE github_automation The total process duration was:24.37
-2024-04-08 16:14:02,096 - INFO - PERFORMANCE github_automation Stop Time = 2024-04-08 16:14:02
-2024-04-08 16:14:02,096 - INFO - PERFORMANCE github_automation Low process duration less than 3 minutes:24.37
-2024-04-08 16:14:02,096 - INFO - PERFORMANCE github_automation Performance optimization is optional
-2024-04-08 16:14:02,096 - INFO - END github_automation =============================================
+2024-04-08 17:26:20,159 - INFO - START github_automation =============================================
+2024-04-08 17:26:20,159 - INFO - START github_automation Start Time = 2024-04-08 17:26:20
+2024-04-08 17:26:20,159 - INFO - github_automation Step 0 - Initialize the configuration file parser
+2024-04-08 17:26:20,181 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-04-08 17:26:20,182 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-04-08 17:26:25,898 - INFO - Process github_automation Step 0 - Initializing and starting Process.
+2024-04-08 17:26:38,026 - INFO - PERFORMANCE github_automation The total process duration was:17.87
+2024-04-08 17:26:38,027 - INFO - PERFORMANCE github_automation Stop Time = 2024-04-08 17:26:38
+2024-04-08 17:26:38,027 - INFO - PERFORMANCE github_automation Low process duration less than 3 minutes:17.87
+2024-04-08 17:26:38,027 - INFO - PERFORMANCE github_automation Performance optimization is optional
+2024-04-08 17:26:38,027 - INFO - END github_automation =============================================
