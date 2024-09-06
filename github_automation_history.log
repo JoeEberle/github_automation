@@ -248,3 +248,51 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-09-06 11:47:55,422 - INFO - START github_automation =============================================
+2024-09-06 11:47:55,423 - INFO - START github_automation Start Time = 2024-09-06 11:47:55
+2024-09-06 11:47:55,423 - INFO - github_automation Step 0 - Initialize the configuration file parser
+2024-09-06 11:47:55,459 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-06 11:47:55,459 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-09-06 11:48:01,432 - INFO - Process github_automation Step 0 - Initializing and starting Process.
+2024-09-06 11:48:27,731 - INFO - PERFORMANCE github_automation The total process duration was:32.31
+2024-09-06 11:48:27,733 - INFO - PERFORMANCE github_automation Stop Time = 2024-09-06 11:48:27
+2024-09-06 11:48:27,733 - INFO - PERFORMANCE github_automation Low process duration less than 3 minutes:32.31
+2024-09-06 11:48:27,733 - INFO - PERFORMANCE github_automation Performance optimization is optional
+2024-09-06 11:48:27,733 - INFO - END github_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-09-06 14:33:00,069 - INFO - START github_automation =============================================
+2024-09-06 14:33:00,069 - INFO - START github_automation Start Time = 2024-09-06 14:33:00
+2024-09-06 14:33:00,069 - INFO - github_automation Step 0 - Initialize the configuration file parser
+2024-09-06 14:33:00,100 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-06 14:33:00,100 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-09-06 14:33:05,967 - INFO - Process github_automation Step 0 - Initializing and starting Process.
+2024-09-06 14:33:28,900 - INFO - PERFORMANCE github_automation The total process duration was:28.83
+2024-09-06 14:33:28,900 - INFO - PERFORMANCE github_automation Stop Time = 2024-09-06 14:33:28
+2024-09-06 14:33:28,900 - INFO - PERFORMANCE github_automation Low process duration less than 3 minutes:28.83
+2024-09-06 14:33:28,900 - INFO - PERFORMANCE github_automation Performance optimization is optional
+2024-09-06 14:33:28,900 - INFO - END github_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-09-06 14:35:52,561 - INFO - START github_automation =============================================
+2024-09-06 14:35:52,562 - INFO - START github_automation Start Time = 2024-09-06 14:35:52
+2024-09-06 14:35:52,562 - INFO - github_automation Step 0 - Initialize the configuration file parser
+2024-09-06 14:35:52,586 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-06 14:35:52,587 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-09-06 14:35:58,263 - INFO - Process github_automation Step 0 - Initializing and starting Process.
+2024-09-06 14:36:15,423 - INFO - PERFORMANCE github_automation The total process duration was:22.86
+2024-09-06 14:36:15,423 - INFO - PERFORMANCE github_automation Stop Time = 2024-09-06 14:36:15
+2024-09-06 14:36:15,423 - INFO - PERFORMANCE github_automation Low process duration less than 3 minutes:22.86
+2024-09-06 14:36:15,423 - INFO - PERFORMANCE github_automation Performance optimization is optional
+2024-09-06 14:36:15,423 - INFO - END github_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
